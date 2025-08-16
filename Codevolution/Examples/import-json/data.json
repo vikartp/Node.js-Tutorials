@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "description": "Node.js Tutorials - Codevolution Examples",
+    "main": "hello-world.js",
+    "scripts": {
+        "start": "node hello-world.js"
+    }
+}
